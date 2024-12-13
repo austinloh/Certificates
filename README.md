@@ -2,7 +2,7 @@
 Certificate | Notes | Attained | Expire
 --- | --- | --- | ---
 AWS Solutions Architect - Associate | [SAA-CO2](/AWS/SAA) | July 2022 | July 2025
-AWS Data Engineer - Associate | [DEA-CO1](/AWS/DEA) | - | -
+AWS Data Engineer - Associate | [DEA-CO1](/AWS/DEA) | Dec 2024 | Dec 2027
 AWS Machine Learning Engineer - Associate | [MLA-CO1](/AWS/MLA) | - | -
 Azure Data Engineer Associate | [DP-203](/Azure/DP-203) | - | -
 Azure Database Administrator Associate | [DP-300](/Azure/DP-300) | - | -
