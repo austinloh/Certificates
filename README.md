@@ -17,7 +17,7 @@ dbt Analytics Engineering
 Airflow Certificate
 
 ## Might not take
-AWS DevOps Engineer - Professional | [DOP-CO2](/AWS/DOP) | - | -
-Databricks Data Engineer Associate | [DEA](/Databricks/DEA) | - | -
-Google Professional Cloud Database Engineer | [CDE](/Google/CDE) | - | -
+AWS DevOps Engineer - Professional | [DOP-CO2](/AWS/DOP) | - | -  
+Databricks Data Engineer Associate | [DEA](/Databricks/DEA) | - | -  
+Google Professional Cloud Database Engineer | [CDE](/Google/CDE) | - | -  
 Google Professional Data Engineer | [DE](/Google/DE) | - | -
