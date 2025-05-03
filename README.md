@@ -6,7 +6,7 @@ AWS Data Engineer - Associate | [DEA-CO1](/AWS/DEA) | Dec 2024 | Dec 2027
 AWS Machine Learning Engineer - Associate | [MLA-CO1](/AWS/MLA) | Jan 2025 | Jan 2028
 AWS Machine Learning - Specialty | [MLS-C01](/AWS/MLS) | Feb 2025 | Feb 2028
 AWS Security - Specialty | [SCS-CO2](/AWS/SCS) | - | -
-AWS Solutions Architect - Professional | [SAP-CO2](/AWS/SAP) | - | -
+AWS Solutions Architect - Professional | [SAP-CO2](/AWS/SAP) | May 2025 | May 2028
 Kubernetes and Cloud Native Associate | [KCNA](/Kubernetes/KCNA) | - | -
 Certified Kubernetes Application Developer | [CKAD](/Kubernetes/CKAD) | - | -
 Databricks Associate Developer for Apache Spark | [ADS](/Databricks/ADS) | - | -
